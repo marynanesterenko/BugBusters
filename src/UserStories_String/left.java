@@ -16,7 +16,7 @@ public class left {
     }
 
     // TO DO:
-    // uncomment lines 21 - 23, and write your method to solve this Task below:
+    // uncomment the lines below and write your method to solve this Task:
 
 //    public String left2(String str) {
 //
