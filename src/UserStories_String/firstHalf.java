@@ -1,5 +1,4 @@
 package UserStories_String;
-
 /*
 UserStory_1:
 Given a string of even length, return the first half. So the string "WooHoo" yields "Woo".
@@ -16,7 +15,7 @@ public class firstHalf {
     }
 
     // TO DO:
-    // uncomment lines 21 - 23, and write your method to solve this Task below:
+    // uncomment the lines below and write your method to solve this Task:
 
 //    public String firstHalf(String str) {
 //
