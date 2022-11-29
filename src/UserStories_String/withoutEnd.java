@@ -15,10 +15,10 @@ public class withoutEnd {
 
     }
 
-    // TO DO:
-    // uncomment lines 21 - 23, and write your method to solve this Task below:
+  //  TO DO:
+  //  uncomment lines 21 - 23, and write your method to solve this Task below:
 
-//    public String withoutEnd(String str) {
+// public String withoutEnd(String str) {
 //
 //    }
 }
