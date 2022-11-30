@@ -15,10 +15,7 @@ public class withoutEnd {
 
     }
 
-    // TO DO:
-    // uncomment the lines below and write your method to solve this Task:
-
-//    public String withoutEnd(String str) {
+// public String withoutEnd(String str) {
 //
 //    }
 }

@@ -12,13 +12,15 @@ left2("Hi") → "Hi"
 
 public class left {
     public static void main(String[] args) {
-
+        System.out.println(left2("Hello"));
     }
 
-    // TO DO:
-    // uncomment the lines below and write your method to solve this Task:
-
-//    public String left2(String str) {
-//
-//    }
+    public static String left2(String str) {
+        if (str.length() > 2){
+            return str.substring(2)+str.substring(0,2);
+        }else {
+            return str;
+        }
+    }
 }
+
