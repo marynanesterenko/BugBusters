@@ -1,2 +1,5 @@
-package UserStories_Array;public class makeLast {
+package UserStories_Array;
+
+public class makeLast {
+
 }
