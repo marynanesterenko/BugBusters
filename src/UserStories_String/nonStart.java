@@ -17,7 +17,6 @@ public class nonStart {
         String str = sc.nextLine();
         String str2 = sc.nextLine();
         System.out.println(str.substring(1) + str2.substring(1));
-
     }
 
     // TO DO:
