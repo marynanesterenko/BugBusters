@@ -22,7 +22,7 @@ public class nonStart {
     // TO DO:
     // uncomment the lines below and write your method to solve this Task:
 
-//    public String nonStart(String a, String b) {
-//
-//    }
+    public String nonStart(String a, String b) {
+
+    }
 }
