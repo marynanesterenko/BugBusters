@@ -17,13 +17,12 @@ public class nonStart {
         String str = sc.nextLine();
         String str2 = sc.nextLine();
         System.out.println(str.substring(1) + str2.substring(1));
-
     }
 
     // TO DO:
     // uncomment the lines below and write your method to solve this Task:
 
-//    public String nonStart(String a, String b) {
-//
-//    }
+    public String nonStart(String a, String b) {
+
+    }
 }
