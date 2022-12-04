@@ -11,23 +11,13 @@ comboString("aaa", "b") → "baaab"
 */
 
 public class comboString {
-   public static void main(String[] args) {
+   public static String comboString(String a, String b){
 
-       System.out.println(comboString("hello", "hi"));
-   }
-
-        //TO DO:
-        // uncomment the lines below and write your method to solve this Task:
-
-        public static String comboString (String a, String b){
-            int lena = a.length();
-          int lenb = b.length();
-          if (lena > lenb) {
+          if (a.length() > b.length()) {
               return b + a + b;
-
-           } else {
+          } else {
               return a + b + a;
-            }
+          }
    }
-    }
+}
 
